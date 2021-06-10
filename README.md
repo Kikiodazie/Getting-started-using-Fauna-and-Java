@@ -1,1 +1,1 @@
-# GGetting started building with Fauna and Java using Spring Boot
+# Getting started building with Fauna and Java using Spring Boot
